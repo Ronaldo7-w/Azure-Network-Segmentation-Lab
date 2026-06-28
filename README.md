@@ -10,7 +10,8 @@ This project demonstrates how to implement secure network segmentation in Azure 
 - Implement Zero Trust principles
 
 ## 🏗️ Architecture
-![Network Diagram](architecture/network-diagram.png)
+<img width="1536" height="1024" alt="network_segmentation" src="https://github.com/user-attachments/assets/ad7bf6a9-1231-4ba9-b93f-7c2ac6f92d48" />
+
 
 ## 🧰 Technologies Used
 - Azure Virtual Network (VNet)
